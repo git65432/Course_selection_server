@@ -1,0 +1,10 @@
+express (express框架): npm install express -g
+express-generator (express项目生成插件): npm install express-generator -g
+mockjs(模拟数据生成库): npm install mockjs
+
+
+http://www.manongjc.com/article/10503.html
+
+
+
+https://www.jianshu.com/p/284590b5b717
