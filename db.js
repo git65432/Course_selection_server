@@ -14,5 +14,12 @@ module.exports = {
     "error": 0,
     "message": "success",
     "result": []
+  }),
+  register: Mock.mock({
+    "error": 0,
+    "message": "success",
+    "result": {
+      "mes":"注册成功"
+    }
   })
 };
