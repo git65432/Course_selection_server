@@ -1,5 +1,4 @@
 module.exports = {
-    "/comment/get.action": "/getComment",
-    "/comment/add.action": "/addComment",
-    "/login/register":"register"
+    "/login/register":"/register",
+    "/login/login":"/login"
   }
