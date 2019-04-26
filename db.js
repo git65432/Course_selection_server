@@ -14,7 +14,11 @@ module.exports = {
     "message": "success",
     "result": {
       "err": 0,
-      "mes":"登录成功"
+      "mes":"登录成功",
+      "id|1-100": 100,
+      "teacher|1-2":true,
+      "name":"@name",
+      
     }
   })
 };
